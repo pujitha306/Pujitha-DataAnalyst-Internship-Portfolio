@@ -28,7 +28,7 @@ This repository contains all the projects completed during my ApexPlanet Data An
 Data Cleaning & Data Wrangling
 
 GitHub Repository:
-(Paste Task 1 GitHub Link Here)
+https://github.com/pujitha306/DataAnalytics_Task1.git
 
 ---
 
@@ -36,7 +36,7 @@ GitHub Repository:
 Exploratory Data Analysis (EDA)
 
 GitHub Repository:
-(Paste Task 2 GitHub Link Here)
+https://github.com/pujitha306/DataAnalytics_Task2.git
 
 ---
 
@@ -44,15 +44,13 @@ GitHub Repository:
 Sales Dashboard using Power BI
 
 GitHub Repository:
-(Paste Task 3 GitHub Link Here)
-
----
+https://github.com/pujitha306/ApexPlanet-Task3-Sales-Dashboard.git
 
 ## ✅ Task 4
 Data Storytelling & Statistical Validation
 
 GitHub Repository:
-(Paste Task 4 GitHub Link Here)
+https://github.com/pujitha306/ApexPlanet-Task4.git
 
 ---
 
